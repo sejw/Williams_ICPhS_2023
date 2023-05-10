@@ -1,6 +1,6 @@
 ## Acoustic analysis of L2 English phonemes for language identification (Williams et al. 2023)
 
-This respository contains the images and supplementary data for the ICPhS article.
+This respository contains the images and supplementary data for the article.
 
 * F1_bw: Density distributions for the raw F1 data
 * F2_bw: Density distributions for the raw F2 data
