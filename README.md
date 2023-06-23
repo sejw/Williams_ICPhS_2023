@@ -9,6 +9,6 @@ This respository contains the images and supplementary data for the article.
 
 Please cite as:
 
-•	Williams, S., Hughes, V., and Foulkes P. (2023, August). _Acoustic Analysis of L2 English Phonemes for Language Identification_. In _ICPhS 2023 - 20th International Congress of Phonetic Sciences_.
+Williams, S., Hughes, V., and Foulkes P. (2023, August). _Acoustic Analysis of L2 English Phonemes for Language Identification_. In _ICPhS 2023 - 20th International Congress of Phonetic Sciences_.
 
 
