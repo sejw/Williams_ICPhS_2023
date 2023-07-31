@@ -2,9 +2,9 @@
 
 This respository contains the images and supplementary data for the article.
 
-* F1_bw: Density distributions for the raw F1 data
-* F2_bw: Density distributions for the raw F2 data
-* duration_bw: Density distributions for the raw duration data
+* F1_density_curve_colour: Density distributions for the raw F1 data
+* F2_density_curve_colour: Density distributions for the raw F2 data
+* Duration_density_curve_colour: Density distributions for the raw duration data
 * Reference_formant_values: Table of reference formant values used for automatic formant extraction
 
 Please cite as:
